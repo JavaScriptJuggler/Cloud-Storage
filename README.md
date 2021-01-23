@@ -4,7 +4,6 @@ This is a cloud storage website like Google Drive or Dropbox.Full featured and s
 
 1. Download the zip from Githab
 2. Open your local server (WAMAP, XAMPP), create a folder with any name and unzip all the files in it.
-3. Unzip REQUIRE DIRECTORY AND DATABASE.zip in same folder.
 4. Open PHPMYADMIN and import the SQL table from database.sql file.
 5. Open the browser and run this website.
 
